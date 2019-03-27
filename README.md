@@ -15,32 +15,32 @@ Program codes in multiple files●
 Proper indentation and naming styles
 In-code documentation*
 ## **Part 2: Feature**
-//no need type functionailty but descripe the code.
-1. Structure of information
-  - fixed cost
-    1. Food
-    2. transportation
-    3. insurance
-    4. daily neccesities
-    5. grocery
-    6. salary
-  - variable cost
-    1. Stock Market
-    2. Gambling
-    5. Bonus
-2. Accessibility of record (delete/read)
-  - A list of table showing different type of imformations per day.
-  //photo here
-  - Freely access by typing different commands,say Add "day" "information type" "amount" / Del "day" "information type" "amount"
-3. Data manipulation/sorting algorithm
-  - A struct encompassed with **2.1 _"Structure of information"_** will be declared.
-  - *Vector <struct>* will be used
-4. Give a *Report* to reader
-  - An excel-like monthly report will be given to the user
-  - Statistic graphs will be given
-5. Alert system
-  - Users can set alarm as the maximum of their spenditure monthly.
-  - Alarm music will be installed
+  //exclude functionailty and describe the code.
+  1. Structure of information
+    - fixed cost
+      1. Food
+      2. transportation
+      3. insurance
+      4. daily neccesities
+      5. grocery
+      6. salary
+    - variable cost
+      1. Stock Market
+      2. Gambling
+      5. Bonus
+  2. Accessibility of record (delete/read)
+    - A list of table showing different type of imformations per day.
+    //photo here
+    - Freely access by typing different commands,say Add "day" "information type" "amount" / Del "day" "information type" "amount"
+  3. Data manipulation/sorting algorithm
+    - A struct encompassed with **2.1 _"Structure of information"_** will be declared.
+    - *Vector <struct>* will be used
+  4. Give a *Report* to reader
+    - An excel-like monthly report will be given to the user
+    - Statistic graphs will be given
+  5. Alert system
+    - Users can set alarm as the maximum of their spenditure monthly.
+    - Alarm music will be installed
 ## **Part 3: Additional feature**
       1. security
         - using cipher transposition
