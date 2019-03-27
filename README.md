@@ -7,13 +7,14 @@
 ### **Who maintains and contributes to the project**
 1. Yam Chak Fung Wesley
 2. Chu Wai Kit Ricky
-/*Dynamic memory management
-●File input/output
-●Data manipulation such as sorting, searching, adding/editing/deleting data records
-●Program codes in multiple files●
+### **Code Requirement**
+Dynamic memory management
+File input/output
+Data manipulation such as sorting, searching, adding/editing/deleting data records
+Program codes in multiple files●
 Proper indentation and naming styles
-●In-code documentation*/
-##**Part 2: Feature**
+In-code documentation*
+## **Part 2: Feature**
 //no need type functionailty but descripe the code.
 1. Structure of information
   - fixed cost
@@ -40,7 +41,7 @@ Proper indentation and naming styles
 5. Alert system
   - Users can set alarm as the maximum of their spenditure monthly.
   - Alarm music will be installed
-##**Part 3: Additional feature**
+## **Part 3: Additional feature**
       1. security
         - using cipher transposition
       2. Deep learning
