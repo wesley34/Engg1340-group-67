@@ -1,6 +1,7 @@
 # **Group 67 **
 ## **Part 1: Aims of project**
 ### **What the project does**
+
 ### **Why the project is useful**  
 ### **How users can get started with the project**
 ### **Where users can get help with your project**
@@ -32,6 +33,8 @@ In-code documentation*
     - A list of table showing different type of imformations per day.
     //photo here
     - Freely access by typing different commands,say Add "day" "information type" "amount" / Del "day" "information type" "amount"
+    - recovery per week
+    - Double confirm after input
   3. Data manipulation/sorting algorithm
     - A struct encompassed with **2.1 _"Structure of information"_** will be declared.
     - *Vector <struct>* will be used
