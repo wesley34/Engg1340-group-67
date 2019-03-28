@@ -7,7 +7,7 @@
 ### **Where users can get help with your project**
 ### **Who maintains and contributes to the project**
 1. Yam Chak Fung Wesley
-2. Chu Wai Kit Ricky
+2. Chu Wai Kit
 ### **Code Requirement**
 Dynamic memory management
 File input/output
@@ -33,21 +33,29 @@ In-code documentation*
     - A list of table showing different type of imformations per day.
     //photo here
     - Freely access by typing different commands,say Add "day" "information type" "amount" / Del "day" "information type" "amount"
-    - recovery per week
-    - Double confirm after input
+    - recovery per week or back up 
+    - double comfimation will be appeared if unreasonable input is given.
   3. Data manipulation/sorting algorithm
     - A struct encompassed with **2.1 _"Structure of information"_** will be declared.
     - *Vector <struct>* will be used
-  4. Give a *Report* to reader
+    - sorting by chronogical / alphabetic / numeric orders
+    - query for conveniency 
+      - eg. search by time. 
+  4. Generate a *Report* to reader
     - An excel-like monthly report will be given to the user
-    - Statistic graphs will be given
+    - Statistic graphs will be given 
+      - eg. bar chart, line chart and pie chart 
+    // **GRAPH**
   5. Alert system
     - Users can set alarm as the maximum of their spenditure monthly.
     - Alarm music will be installed
 ## **Part 3: Additional feature**
   1. security
     - using cipher transposition
+    - login system with checking 
+       - eg. absence check, format check ( for email, xxx@xxx.com), more-secured password (Case sensitvie, special characters and number mixing alpabet)
+       - alert for invalid input
   2. Deep learning
     - Backward propagation (ReLU,sigmoid,softmax)
-  3. Double comfirmation
-    - double comfimation will be appeared if unreasonable input is given.
+
+    
