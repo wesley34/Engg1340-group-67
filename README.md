@@ -1,8 +1,11 @@
-# **Group 67 :)**
+# **Group 67 :)** 
+## Topic Q4 Accounting system 
 ## **Part 1: Aims of project**
 ### **What the project does**
-
+Magnaing financial status is an essential skill for all of us. Children and teens should develop such habbit since early age. However, parents lack experience and tools. Thus, we would like to develop an accounting system to help parents to educate their kids the concept of currency as well as helping teens to develop a healthy financial habit in daily life. 
+In the Account system, basic functions will be included. Add/delete/modify the data and generating report for parents and kids to track their fancial status. Moreover, security for this system is very important part since financial status is very sensitive personal information. We would like to have high enough security level. Last but not least, interactivity between kids and parents can be crucial. Parents can reward their kids throught the app. 
 ### **Why the project is useful**  
+
 ### **How users can get started with the project**
 ### **Where users can get help with your project**
 ### **Who maintains and contributes to the project**
@@ -57,5 +60,6 @@ In-code documentation*
        - alert for invalid input
   2. Deep learning
     - Backward propagation (ReLU,sigmoid,softmax)
-
+  3. Reward system
+     - parents can reward their children for bouns 
     
